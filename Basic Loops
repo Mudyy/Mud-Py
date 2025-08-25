@@ -1,0 +1,10 @@
+for i in range(5):
+    print(i)
+print("next loop after this")
+for x in range(1,6):
+    print(x)
+print("next loop after second")
+
+for counter in range(1,11):
+    print(counter)
+print("all loops finished")
