@@ -1,0 +1,11 @@
+count = 5
+while count > 0:
+    print(count)
+    count -=1
+print("Now mini task")
+
+counting = 1
+while counting < 6:
+    print(counting)
+    counting +=1
+print("mini task done")
