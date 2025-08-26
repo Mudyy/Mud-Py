@@ -1,0 +1,17 @@
+def sum_to_n_w(n):
+    total = 0
+    i = 1
+    while i<=n:
+        total += i
+        i += 1
+    return total
+print(sum_to_n_w(5))
+print(sum_to_n_w(1))
+print(sum_to_n_w(0))
+
+#total = 0, i = 1
+#total = 1, i = 2
+#total = 3, i = 3
+#total = 6, i = 4
+#total = 10, i = 5
+#total = 15, i = 6
