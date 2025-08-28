@@ -1,0 +1,5 @@
+def greet(name = "Guest"):
+    return f"Welcome, {name}"
+
+print(greet())
+print(greet("Ali"))
