@@ -1,0 +1,5 @@
+def math_ops(a,b):
+    return a+b,a-b,a*b
+
+add,sub,mul = math_ops(5,2)
+print(add,sub,mul)
