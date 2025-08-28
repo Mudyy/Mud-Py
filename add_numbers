@@ -1,0 +1,6 @@
+def add_numbers(total1,total2):
+    combine = total1 + total2
+    return combine
+
+result = add_numbers(5,7)
+print(result)
