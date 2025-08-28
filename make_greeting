@@ -1,0 +1,5 @@
+def make_greeting(name):
+    return f"Welcome to Python, {name}!"
+    
+msg = make_greeting("Ali")
+print(msg)
