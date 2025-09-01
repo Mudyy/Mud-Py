@@ -1,0 +1,15 @@
+nums = [10,20,30]
+print(nums[0])
+print(nums[1])
+print(nums[2])
+
+"""now negative value indexing check on list"""
+
+print(nums[-1])
+print(nums[-2])
+print(nums[-3])
+
+"""now last two elements together"""
+
+last_two = nums[-2:]
+print(last_two)
